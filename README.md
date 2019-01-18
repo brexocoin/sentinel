@@ -39,7 +39,7 @@ Make sure the local BrexocoinCore daemon running is at least version 12.1 (12010
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/brexocoinpay/sentinel.git && cd sentinel
+    $ git clone https://github.com/brexocoin/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
